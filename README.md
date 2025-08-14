@@ -5,7 +5,7 @@ Wenn der ESP32S3-LCD-1.47 von waveshare im USB-Port COM:4 steckt und das Program
 
 Sinnlos?
 
-Der Rechner ist aus sicherheitsgründen icht im Netzwerk.
+Der Rechner ist aus sicherheitsgründen nicht im Netzwerk.
 Der Stick wird nur im Bedarfsfall benutzt.
 Er geht nach drei Minuten in den Sleep-Modus und kann entgernt werden.
 
