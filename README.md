@@ -7,5 +7,5 @@ Sinnlos?
 
 Der Rechner ist aus sicherheitsgründen nicht im Netzwerk.
 Der Stick wird nur im Bedarfsfall benutzt.
-Er geht nach drei Minuten in den Sleep-Modus und kann entgernt werden.
+Er geht nach drei Minuten in den Sleep-Modus und kann entfernt werden.
 
