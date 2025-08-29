@@ -22,5 +22,5 @@ Da ich einen ESP32-S3-LCD-1.47 nutze, werden andere PIN's für die Display-Anste
 
 Jahr-Monat-Tag-Stunde-Minute-Sekunde
 
-Auf einem Windows-Rechner wird ein Proramm gestartet, welches die Uhrzeit stellt.
+Auf einem Windows-Rechner wird ein Programm gestartet, welches die Uhrzeit stellt.
 Dieser Rechner ist nicht im Internet.
