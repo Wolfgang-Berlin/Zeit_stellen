@@ -144,7 +144,7 @@ void loop() {
   }
 
   if (millis() > 180000) { 
-    showStatus("Gehe sclafen ...", ST77XX_YELLOW, 2);
+    showStatus("Gehe schlafen ...", ST77XX_YELLOW, 2);
     delay(10000);
     esp_deep_sleep_start();
   }
